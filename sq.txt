@@ -1,0 +1,3 @@
+for test squash merge
+222222
+33333333
